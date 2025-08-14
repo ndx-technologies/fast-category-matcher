@@ -2,7 +2,7 @@ Fast Catagory Matching
 
 This service provides fast category matching in taxonomy trees for natural language.
 Inference is done `<5ms` which allows for real-time normalisation of approximate categories (e.g. LLM, OCR).
-Zero memory alloc allows this inference to be done in tight loop without memory pressure.
+Zero memory alloc allows to run this in a tight loop without memory pressure.
 
 ```bash
 $ go test -bench=. -benchmem .
