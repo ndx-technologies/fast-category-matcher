@@ -14,3 +14,7 @@ BenchmarkApproxStrGoogleTaxonomyMatcher-16           314           3823583 ns/op
 PASS
 ok      github.com/ndx-technologies/fast-category-matcher       2.036s
 ```
+
+License
+
+Google Product Taxonomy belongs to Google under their license.
